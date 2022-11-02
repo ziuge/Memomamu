@@ -15,12 +15,23 @@
 ## 기술
 `RealmSwift`
 `SnapKit`
+`Firebase Crashlytics`
+`FSCalendar`
+`Figma`
 
 ## 화면
 <img src="https://user-images.githubusercontent.com/79574342/193399510-8f5fb6f3-6f2b-4987-9d0c-389189327968.png" height="500"> <img src="https://user-images.githubusercontent.com/79574342/193399734-f4468db4-cc5f-4dd9-aba5-99aeb33b3a27.png" height="500"> <img src="https://user-images.githubusercontent.com/79574342/193399760-7664e96c-bff7-46bf-9a88-96392332a2e3.png" height="500">
 
 ## 업데이트
-### 22.10.12
+### 1.1 22.10.12
 - 다국어 지원 - 일본어, 영어가 추가되었어요.
 - 꾹 눌러 순서를 변경할 수 있어요.
 - 알림을 설정할 수 있어요.
+
+### 1.1.1 22.10.14
+- 다국어 지원 오류가 수정되었습니다.
+- 모아보기 화면에서 좌우 여백이 수정되었습니다.
+- 캘린더, 모아보기 화면에서도 다이어리로 바로 갈 수 있도록 수정되었습니다. 
+
+### 1.1.2 22.10.14
+- To-do 연기 버튼 오류가 수정되었습니다.
